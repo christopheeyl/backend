@@ -1,4 +1,4 @@
-## How to run frontend ?
+## How to run backend ?
 
 In the project directory, you can run:
 
